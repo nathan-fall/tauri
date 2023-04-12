@@ -35,7 +35,7 @@ encoding_rs = "0.8"
 os_pipe = "1"
 
 # dependencies for Windows targets
-attohttpc = "0.24"
+attohttpc = "0.25"
 hex = "0.4"
 semver = "1"
 sha1 = "0.10"
