@@ -1,5 +1,19 @@
 # Changelog
 
+## \[2.0.0-alpha.4]
+
+- [`3245d14b`](https://www.github.com/tauri-apps/tauri/commit/3245d14b9eb256a5c5675c7030bac7082855df47)([#6895](https://www.github.com/tauri-apps/tauri/pull/6895)) Moved the `app` feature to its own plugin in the plugins-workspace repository.
+- [`09376af5`](https://www.github.com/tauri-apps/tauri/commit/09376af59424cc27803fa2820d2ac0d4cdc90a6d)([#6704](https://www.github.com/tauri-apps/tauri/pull/6704)) Moved the `cli` feature to its own plugin in the plugins-workspace repository.
+- [`2d5378bf`](https://www.github.com/tauri-apps/tauri/commit/2d5378bfc1ba817ee2f331b41738a90e5997e5e8)([#6717](https://www.github.com/tauri-apps/tauri/pull/6717)) Moved the dialog APIs to its own plugin in the plugins-workspace repository.
+- [`fc4d687e`](https://www.github.com/tauri-apps/tauri/commit/fc4d687ef0ef2ea069ed73c40916da733b5dcb8f)([#6716](https://www.github.com/tauri-apps/tauri/pull/6716)) Moved the file system APIs to its own plugin in the plugins-workspace repository.
+- [`f78a3783`](https://www.github.com/tauri-apps/tauri/commit/f78a378344bbec48533641661d865920a8f46f8f)([#6742](https://www.github.com/tauri-apps/tauri/pull/6742)) Moved the `http` feature to its own plugin in the plugins-workspace repository.
+- [`29ce9ce2`](https://www.github.com/tauri-apps/tauri/commit/29ce9ce2ce7dfb260d556d5cffd075e8fe06660c)([#6902](https://www.github.com/tauri-apps/tauri/pull/6902)) Moved the `os` feature to its own plugin in the plugins-workspace repository.
+- [`60cf9ed2`](https://www.github.com/tauri-apps/tauri/commit/60cf9ed2fcd7be4df41e86cf18735efe9b6cb254)([#6905](https://www.github.com/tauri-apps/tauri/pull/6905)) Moved the `process` feature to its own plugin in the plugins-workspace repository.
+- [`96639ca2`](https://www.github.com/tauri-apps/tauri/commit/96639ca239c9e4f75142fc07868ac46822111cff)([#6749](https://www.github.com/tauri-apps/tauri/pull/6749)) Moved the `shell` functionality to its own plugin in the plugins-workspace repository.
+- [`b072daa3`](https://www.github.com/tauri-apps/tauri/commit/b072daa3bd3e38b808466666619ddb885052c5b2)([#6919](https://www.github.com/tauri-apps/tauri/pull/6919)) Moved the `updater` feature to its own plugin in the plugins-workspace repository.
+- [`cebd7526`](https://www.github.com/tauri-apps/tauri/commit/cebd75261ac71b98976314a450cb292eeeec1515)([#6728](https://www.github.com/tauri-apps/tauri/pull/6728)) Moved the `clipboard` feature to its own plugin in the plugins-workspace repository.
+- [`3f17ee82`](https://www.github.com/tauri-apps/tauri/commit/3f17ee82f6ff21108806edb7b00500b8512b8dc7)([#6737](https://www.github.com/tauri-apps/tauri/pull/6737)) Moved the `global-shortcut` feature to its own plugin in the plugins-workspace repository.
+
 ## \[2.0.0-alpha.3]
 
 - Overload the dialog `open` function to have better TS result types.
