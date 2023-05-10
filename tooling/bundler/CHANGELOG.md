@@ -1,5 +1,11 @@
 # Changelog
 
+## \[1.2.2]
+
+### Enhancements
+
+- [`540ddd4e`](https://www.github.com/tauri-apps/tauri/commit/540ddd4e6a4926c26507a8d06fbe72a5895f8509)([#6906](https://www.github.com/tauri-apps/tauri/pull/6906)) Added Dutch language support to the NSIS bundler.
+
 ## \[1.2.1]
 
 - Correctly escape XML for resource files in WiX bundler.

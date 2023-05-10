@@ -1,5 +1,11 @@
 # Changelog
 
+## \[1.3.2]
+
+### What's Changed
+
+- [`2659ca1a`](https://www.github.com/tauri-apps/tauri/commit/2659ca1ab4799a5bda65c229c149e98bd01eb1ee)([#6900](https://www.github.com/tauri-apps/tauri/pull/6900)) Add `rustls` as default Cargo feature.
+
 ## \[1.3.1]
 
 - Correctly escape XML for resource files in WiX bundler.
